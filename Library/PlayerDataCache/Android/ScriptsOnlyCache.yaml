@@ -1,0 +1,1258 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - ADb
+    - adsban
+    - adsin
+    - bank_huruf
+    - belajar
+    - control
+    - controlpz
+    - drag
+    - evaluasi
+    - feedpz
+    - feedpzlevel2
+    - game
+    - home
+    - homemain
+    - homepzzl
+    - jawab
+    - keluar
+    - mainkan
+    - mulai
+    - petunjuk
+    - sca
+    - skor
+    - tombol
+    GoogleMobileAds.Editor.dll:
+    - GoogleMobileAds.Editor.GoogleMobileAdsSettings
+    GoogleMobileAds.dll:
+    - GoogleMobileAds.Common.MobileAdsEventExecutor
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimatorControllerTool
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.EventTrigger
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.Text
+  sceneClasses:
+    Assets/scene/belajar.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1548}
+    - Class: 114
+      Script: {instanceID: 1634}
+    - Class: 114
+      Script: {instanceID: 1702}
+    - Class: 114
+      Script: {instanceID: 1726}
+    - Class: 114
+      Script: {instanceID: 1784}
+    - Class: 114
+      Script: {instanceID: 1804}
+    - Class: 114
+      Script: {instanceID: 1852}
+    - Class: 114
+      Script: {instanceID: 2034}
+    - Class: 114
+      Script: {instanceID: 2118}
+    - Class: 114
+      Script: {instanceID: 2124}
+    - Class: 114
+      Script: {instanceID: 2318}
+    - Class: 114
+      Script: {instanceID: 2402}
+    - Class: 114
+      Script: {instanceID: 2414}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+    Assets/scene/evaluasi.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1548}
+    - Class: 114
+      Script: {instanceID: 1634}
+    - Class: 114
+      Script: {instanceID: 1702}
+    - Class: 114
+      Script: {instanceID: 1774}
+    - Class: 114
+      Script: {instanceID: 1784}
+    - Class: 114
+      Script: {instanceID: 1852}
+    - Class: 114
+      Script: {instanceID: 2034}
+    - Class: 114
+      Script: {instanceID: 2118}
+    - Class: 114
+      Script: {instanceID: 2254}
+    - Class: 114
+      Script: {instanceID: 2318}
+    - Class: 114
+      Script: {instanceID: 2402}
+    - Class: 114
+      Script: {instanceID: 2414}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+    Assets/scene/exit.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1548}
+    - Class: 114
+      Script: {instanceID: 1634}
+    - Class: 114
+      Script: {instanceID: 1784}
+    - Class: 114
+      Script: {instanceID: 1888}
+    - Class: 114
+      Script: {instanceID: 1926}
+    - Class: 114
+      Script: {instanceID: 2034}
+    - Class: 114
+      Script: {instanceID: 2118}
+    - Class: 114
+      Script: {instanceID: 2124}
+    - Class: 114
+      Script: {instanceID: 2214}
+    - Class: 114
+      Script: {instanceID: 2318}
+    - Class: 114
+      Script: {instanceID: 2402}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+    Assets/scene/level1.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 50
+      Script: {instanceID: 0}
+    - Class: 61
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 102
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1548}
+    - Class: 114
+      Script: {instanceID: 1634}
+    - Class: 114
+      Script: {instanceID: 1656}
+    - Class: 114
+      Script: {instanceID: 1682}
+    - Class: 114
+      Script: {instanceID: 1784}
+    - Class: 114
+      Script: {instanceID: 1852}
+    - Class: 114
+      Script: {instanceID: 1878}
+    - Class: 114
+      Script: {instanceID: 2034}
+    - Class: 114
+      Script: {instanceID: 2118}
+    - Class: 114
+      Script: {instanceID: 2244}
+    - Class: 114
+      Script: {instanceID: 2318}
+    - Class: 114
+      Script: {instanceID: 2414}
+    - Class: 114
+      Script: {instanceID: 2532}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+    Assets/scene/level2.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 50
+      Script: {instanceID: 0}
+    - Class: 58
+      Script: {instanceID: 0}
+    - Class: 61
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1548}
+    - Class: 114
+      Script: {instanceID: 1582}
+    - Class: 114
+      Script: {instanceID: 1586}
+    - Class: 114
+      Script: {instanceID: 1634}
+    - Class: 114
+      Script: {instanceID: 1656}
+    - Class: 114
+      Script: {instanceID: 1682}
+    - Class: 114
+      Script: {instanceID: 1784}
+    - Class: 114
+      Script: {instanceID: 1852}
+    - Class: 114
+      Script: {instanceID: 1878}
+    - Class: 114
+      Script: {instanceID: 2034}
+    - Class: 114
+      Script: {instanceID: 2118}
+    - Class: 114
+      Script: {instanceID: 2244}
+    - Class: 114
+      Script: {instanceID: 2318}
+    - Class: 114
+      Script: {instanceID: 2412}
+    - Class: 114
+      Script: {instanceID: 2414}
+    - Class: 114
+      Script: {instanceID: 2532}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+    Assets/scene/mainkan.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 58
+      Script: {instanceID: 0}
+    - Class: 61
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1548}
+    - Class: 114
+      Script: {instanceID: 1634}
+    - Class: 114
+      Script: {instanceID: 1656}
+    - Class: 114
+      Script: {instanceID: 1682}
+    - Class: 114
+      Script: {instanceID: 1784}
+    - Class: 114
+      Script: {instanceID: 1852}
+    - Class: 114
+      Script: {instanceID: 2034}
+    - Class: 114
+      Script: {instanceID: 2094}
+    - Class: 114
+      Script: {instanceID: 2118}
+    - Class: 114
+      Script: {instanceID: 2318}
+    - Class: 114
+      Script: {instanceID: 2414}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+    Assets/scene/menu utama.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1548}
+    - Class: 114
+      Script: {instanceID: 1634}
+    - Class: 114
+      Script: {instanceID: 1784}
+    - Class: 114
+      Script: {instanceID: 1852}
+    - Class: 114
+      Script: {instanceID: 2034}
+    - Class: 114
+      Script: {instanceID: 2118}
+    - Class: 114
+      Script: {instanceID: 2124}
+    - Class: 114
+      Script: {instanceID: 2208}
+    - Class: 114
+      Script: {instanceID: 2318}
+    - Class: 114
+      Script: {instanceID: 2368}
+    - Class: 114
+      Script: {instanceID: 2402}
+    - Class: 114
+      Script: {instanceID: 2446}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+    Assets/scene/mulai bermain.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1548}
+    - Class: 114
+      Script: {instanceID: 1634}
+    - Class: 114
+      Script: {instanceID: 1784}
+    - Class: 114
+      Script: {instanceID: 1852}
+    - Class: 114
+      Script: {instanceID: 2034}
+    - Class: 114
+      Script: {instanceID: 2118}
+    - Class: 114
+      Script: {instanceID: 2124}
+    - Class: 114
+      Script: {instanceID: 2318}
+    - Class: 114
+      Script: {instanceID: 2402}
+    - Class: 114
+      Script: {instanceID: 2462}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+    Assets/scene/mulai evaluasi.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1548}
+    - Class: 114
+      Script: {instanceID: 1634}
+    - Class: 114
+      Script: {instanceID: 1784}
+    - Class: 114
+      Script: {instanceID: 1852}
+    - Class: 114
+      Script: {instanceID: 2034}
+    - Class: 114
+      Script: {instanceID: 2118}
+    - Class: 114
+      Script: {instanceID: 2124}
+    - Class: 114
+      Script: {instanceID: 2318}
+    - Class: 114
+      Script: {instanceID: 2402}
+    - Class: 114
+      Script: {instanceID: 2446}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+    Assets/scene/pembuka.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1548}
+    - Class: 114
+      Script: {instanceID: 1612}
+    - Class: 114
+      Script: {instanceID: 1634}
+    - Class: 114
+      Script: {instanceID: 1784}
+    - Class: 114
+      Script: {instanceID: 1852}
+    - Class: 114
+      Script: {instanceID: 2034}
+    - Class: 114
+      Script: {instanceID: 2118}
+    - Class: 114
+      Script: {instanceID: 2318}
+    - Class: 114
+      Script: {instanceID: 2402}
+    - Class: 114
+      Script: {instanceID: 2462}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+    Assets/scene/petunjuk.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1548}
+    - Class: 114
+      Script: {instanceID: 1634}
+    - Class: 114
+      Script: {instanceID: 1784}
+    - Class: 114
+      Script: {instanceID: 1852}
+    - Class: 114
+      Script: {instanceID: 1926}
+    - Class: 114
+      Script: {instanceID: 2034}
+    - Class: 114
+      Script: {instanceID: 2118}
+    - Class: 114
+      Script: {instanceID: 2124}
+    - Class: 114
+      Script: {instanceID: 2318}
+    - Class: 114
+      Script: {instanceID: 2402}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+    Assets/scene/pilih level.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1548}
+    - Class: 114
+      Script: {instanceID: 1634}
+    - Class: 114
+      Script: {instanceID: 1784}
+    - Class: 114
+      Script: {instanceID: 1852}
+    - Class: 114
+      Script: {instanceID: 2034}
+    - Class: 114
+      Script: {instanceID: 2118}
+    - Class: 114
+      Script: {instanceID: 2124}
+    - Class: 114
+      Script: {instanceID: 2318}
+    - Class: 114
+      Script: {instanceID: 2402}
+    - Class: 114
+      Script: {instanceID: 2462}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: a6e561615949734e9f12f9b61661f43e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 040dd48e3a027d5424519a5fa2009df4
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: 6f9851b0a8817a4f1a473c7c0ea0f08a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: feedpz
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: petunjuk
+  - hash:
+      serializedVersion: 2
+      Hash: a325152ad9563ed900af221c132fea36
+    assemblyName: UnityEngine.Advertisements.dll
+    namespaceName: UnityEngine.Advertisements.Utilities
+    className: CoroutineExecutor
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 6fb512c6733e02f441372611e6f94f11
+    assemblyName: GoogleMobileAds.Editor.dll
+    namespaceName: GoogleMobileAds.Editor
+    className: GoogleMobileAdsSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: a1aa98c78061c6f03a8c124cda576e67
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: bank_huruf
+  - hash:
+      serializedVersion: 2
+      Hash: ef5c43f921427d03730f6ea4c848f07d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: 9b220303bb60b4f5e9ff9d194bf7bc36
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: control
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: 8eb6cfd1c1f790d790d3f3b53addd6fc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: jawab
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: mainkan
+  - hash:
+      serializedVersion: 2
+      Hash: bcaee4c2a83047257b5f47d6ed264b75
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: skor
+  - hash:
+      serializedVersion: 2
+      Hash: 6bc76e17f0d5e93f3eea7f5a2fe227f3
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 3164bc883ff663a5cdb32d1ef7e7c0c5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: f7fae15531e0e87e6bedf119f459d221
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: sca
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: GoogleMobileAds.dll
+    namespaceName: GoogleMobileAds.Common
+    className: MobileAdsEventExecutor
+  - hash:
+      serializedVersion: 2
+      Hash: 21a9c6dbf300fc1f6dc15ca7e2c39a37
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.Advertisements.dll
+    namespaceName: UnityEngine.Advertisements.Utilities
+    className: ApplicationQuit
+  - hash:
+      serializedVersion: 2
+      Hash: 3164bc883ff663a5cdb32d1ef7e7c0c5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: adsban
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: 6f9851b0a8817a4f1a473c7c0ea0f08a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: feedpzlevel2
+  - hash:
+      serializedVersion: 2
+      Hash: 88e2c6f501bf5dead831a3e44c30de40
+    assemblyName: UnityEngine.Advertisements.dll
+    namespaceName: UnityEngine.Advertisements.Platform.Editor
+    className: BannerPlaceholder
+  - hash:
+      serializedVersion: 2
+      Hash: 6b80ff9413b6bcce43ff27ff577b5537
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: keluar
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: GoogleMobileAds.dll
+    namespaceName: 
+    className: Countdown
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: adsin
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.Advertisements.dll
+    namespaceName: UnityEngine.Advertisements
+    className: Placeholder
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: GoogleMobileAds.dll
+    namespaceName: 
+    className: DummyAdBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: a306e12d896ddcca949923c805691027
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: homemain
+  - hash:
+      serializedVersion: 2
+      Hash: 134322c9293c1896357cce271b819ce4
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: home
+  - hash:
+      serializedVersion: 2
+      Hash: a81d4c2c1cf3ad164d277d927a193679
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: GoogleMobileAds.dll
+    namespaceName: 
+    className: ButtonBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: game
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ADb
+  - hash:
+      serializedVersion: 2
+      Hash: 3198bd7a1133a066601b71cc46433266
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: drag
+  - hash:
+      serializedVersion: 2
+      Hash: 699619b86d9359741a4f58540298c80b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: f7858108331b563fb41b80b729297acd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: belajar
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: c1d728126ff1918728036c59106d32b2
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: 69415240821be7986b27e72bf9609a30
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: b0fded761dae8ae188a243877dca0dc9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: huruf
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: homepzzl
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: tombol
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: evaluasi
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: mulai
+  - hash:
+      serializedVersion: 2
+      Hash: 152e183bfbed26a16fe16da9035134a4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: controlpz
+  platform: 13
+  scenePathNames:
+  - Assets/scene/pembuka.unity
+  - Assets/scene/menu utama.unity
+  - Assets/scene/belajar.unity
+  - Assets/scene/mainkan.unity
+  - Assets/scene/mulai bermain.unity
+  - Assets/scene/pilih level.unity
+  - Assets/scene/level2.unity
+  - Assets/scene/level1.unity
+  - Assets/scene/mulai evaluasi.unity
+  - Assets/scene/evaluasi.unity
+  - Assets/scene/petunjuk.unity
+  - Assets/scene/exit.unity
+  playerPath: E:/file project/Unity/folder_TEST/hijaiyah11.apk
